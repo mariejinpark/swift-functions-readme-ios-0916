@@ -34,4 +34,4 @@ let catFriend = "Socks"
 sayHelloToCat(catFriend)
 
 // Uncomment this line to see the error that is printed in the console.
-//sayHelloToCat()
+sayHelloToCat()
